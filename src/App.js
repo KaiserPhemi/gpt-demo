@@ -1,5 +1,7 @@
+// react libraries
 import React from "react";
 
+// main app component
 const App = () => {
   return (
     <div>
